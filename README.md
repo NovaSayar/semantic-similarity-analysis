@@ -75,13 +75,16 @@ See the `images` directory for:
 
 ## Future Work
 
-Future work includes:
+Future work may includes:
 
 * Applying newer image-text models like DALL·E 3
 * Exploring more robust similarity metrics
 * Investigating more diverse prompt types
 
-## Contact
+## Authors
+
+- Sebastiano Franchini
+- Harun Eroglu
 
 For questions, please contact one of the contributors.
 
