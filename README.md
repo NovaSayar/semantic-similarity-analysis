@@ -83,8 +83,8 @@ Future work may includes:
 
 ## Authors
 
-- Sebastiano Franchini
 - Harun Eroglu
+- Sebastiano Franchini
 
 For questions, please contact one of the contributors.
 
