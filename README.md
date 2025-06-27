@@ -35,31 +35,13 @@ We evaluate:
 ├── analysis.py              # Statistical analyses & visualizations
 ├── main.py                  # Main execution script
 ├── prompt_matrix.csv        # Input prompt data
-├── results                  # JSON output files
-├── images                   # Generated images and plots
+├── results-figures          # figures and statistics
 ├── README.md                # Project overview
-└── requirements.txt         # Dependencies
-```
-
-## Installation
-
-```bash
-# Clone the repository
- git clone https://github.com/yourusername/yourrepo.git
- cd yourrepo
-
-# Set up environment
- python3 -m venv env
- source env/bin/activate
- pip install -r requirements.txt
-
-# Run the pipeline
- python main.py
 ```
 
 ## Results & Figures
 
-See the `images` directory for:
+See the relevant directory for:
 
 * Metric comparisons
 * Prompt-type and content-type analysis
@@ -75,11 +57,11 @@ See the `images` directory for:
 
 ## Future Work
 
-Future work may includes:
+Future work may include:
 
-* Applying newer image-text models like DALL·E 3
-* Exploring more robust similarity metrics
-* Investigating more diverse prompt types
+* Applying newer image-text models like DALL·E 3.
+* Exploring more robust similarity metrics.
+* Investigating more diverse prompt types.
 
 ## Authors
 
